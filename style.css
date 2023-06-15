@@ -19,13 +19,27 @@ body {
 	font-family: 'Poppins', sans-serif;
 	justify-content: center;
 	min-height: 100vh;
+	height: 100vh;
 	background-image: url("bg.jpg");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-attachment: fixed;
+    vertical-align: middle;
+}
+
+@media (max-width: 1200px) {
+    body {
+        display: inline;
+    }
+ul {
+display: inline;
+height: 10vh;
+padding: 60px 50px;
+}
 }
 
 ul {
-	display: block;
+	display: flex;
+	justify-content: center;
 	margin: 0 10px;
 }
 
