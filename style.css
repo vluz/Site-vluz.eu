@@ -1,15 +1,15 @@
 * {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
 }
 
 *:focus {
-  outline: 0;
+	outline: 0;
 }
 
 html {
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
 body {
@@ -21,21 +21,27 @@ body {
 	min-height: 100vh;
 	height: 100vh;
 	background-image: url("bg.jpg");
-    background-repeat: repeat;
-    background-attachment: fixed;
-    vertical-align: middle;
+	background-repeat: repeat;
+	background-attachment: fixed;
+	vertical-align: middle;
 }
 
 @media (max-width: 1200px) {
-    body {
-        display: inline;
-    }
-ul {
-display: inline;
-height: 10vh;
-padding: 60px 50px;
+	body {
+		display: inline;
+	}
+
+	ul {
+		display: inline;
+		height: 10vh;
+		padding: 60px 50px;
+	}
+
+	ul li a {
+		font-size: 200%;
+	}
 }
-}
+
 
 ul {
 	display: flex;
