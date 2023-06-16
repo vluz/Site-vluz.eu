@@ -35,6 +35,9 @@ body {
 		display: inline;
 		height: 10vh;
 		padding: 60px 50px;
+		background-image: url("bgup.jpg");
+		background-repeat: repeat;
+		background-attachment: fixed;
 	}
 
 	ul li a {
@@ -65,7 +68,7 @@ ul li a {
 	display: block;
 	font-weight: 1200;
 	font-size: 200%;
-	height: 35px;
+	height: 33px;
 	overflow: hidden;
 	position: relative;
 	text-decoration: none;
