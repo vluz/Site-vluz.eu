@@ -24,17 +24,12 @@ body {
 	background-repeat: repeat;
 	background-attachment: fixed;
 	vertical-align: middle;
+	flex-wrap: wrap;
 }
 
 @media (max-width: 1200px) {
 	body {
-		display: inline;
-	}
-
-	ul {
-		display: inline;
-		height: 10vh;
-		padding: 60px 50px;
+		background-image: url("bgup.jpg");
 	}
 }
 
@@ -60,7 +55,7 @@ ul li a {
 	display: block;
 	font-weight: 1200;
 	font-size: 200%;
-	height: 35px;
+	height: 33px;
 	overflow: hidden;
 	position: relative;
 	text-decoration: none;

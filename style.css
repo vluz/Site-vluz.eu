@@ -24,27 +24,14 @@ body {
 	background-repeat: repeat;
 	background-attachment: fixed;
 	vertical-align: middle;
+	flex-wrap: wrap;
 }
 
 @media (max-width: 1200px) {
 	body {
-		display: inline;
-	}
-
-	ul {
-		display: inline;
-		height: 10vh;
-		padding: 60px 50px;
 		background-image: url("bgup.jpg");
-		background-repeat: repeat;
-		background-attachment: fixed;
-	}
-
-	ul li a {
-		font-size: 200%;
 	}
 }
-
 
 ul {
 	display: flex;
