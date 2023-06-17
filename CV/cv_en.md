@@ -21,7 +21,7 @@ _2012 - Present_
 ## CPC.is: Senior Systems Engineer
 _Lisbon, Portugal, May 2011 - December 2011_
 
-- Rejoined tengineering team at CPC, information systems division.
+- Rejoined the engineering team at CPC, information systems division.
 - Mentored and trained team members, implemented customer projects and provided customer support.
 - Worked with UNIX/Windows, VMware, HP, Microsoft, Symantec and open source solutions.
 
@@ -30,8 +30,8 @@ _Lisbon, Portugal, May 2011 - December 2011_
 ## European Central Bank: Senior Systems Specialist
 _Frankfurt, Germany, April 2010 - December 2010_
 
-- Provided engineering support for system platforms, virtualization, databases, backup, storage, European data switching systems. Support for disaster recovery solutions, UNIX, Windows, Oracle and tEXDI platform. Support for central banks.
-- Collaborated with tDarwin system at European level and with thigh-level IT platform performance for ECB statistics division including first experiments in modern ML at an experimental level.
+- Provided engineering support for system platforms, virtualization, databases, backup, storage, European data switching systems. Support for disaster recovery solutions, UNIX, Windows, Oracle and the EXDI platform. Support for country central banks.
+- Collaborated with the Darwin system at European-wide level and with the high-performance platform for ECB statistics division, including first experiments in modern ML at an experimental level.
 
 ## Atos Origin: Senior DR storage specialist
 _Birmingham, United Kingdom, September 2009 - November 2009_
@@ -91,7 +91,7 @@ _Palmela, Portugal, 1996 - 1998_
 # Education
 - Alumni of Instituto Militar dos Pupilos do Exército, a school for career military, from first to 12th grade.
 - Degree in Industrial Electronics (EEC Level IV) and specialization in industrial automation, Siemens/ANFEI.
-- European Level IV German exam passed with very positive marks.
+- European Level IV German exam passed with very positive mark.
 - Various courses EMC, HP, Solaris, Fujitsu-Siemens, VMware, NetApp, HDS, IBM, etc.
 
 # Certifications
