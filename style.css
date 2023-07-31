@@ -30,6 +30,14 @@ body {
 @media (max-width: 1200px) {
 	body {
 		background-image: url("bgup.jpg");
+		min-height: 60vh;
+		height: 60vh;
+		margin: 100px 50px;
+		font-size: 300%;
+	}
+	ul li a {
+		min-height: 310%;
+		height: 310%;
 	}
 }
 
@@ -47,7 +55,7 @@ ul li:hover:before {
 
 ul li {
 	list-style: none;
-	margin: 0 10px;
+	margin: 0 20px;
 	position: relative;
 }
 
@@ -55,7 +63,7 @@ ul li a {
 	display: block;
 	font-weight: 1200;
 	font-size: 200%;
-	height: 33px;
+	height: 40px;
 	overflow: hidden;
 	position: relative;
 	text-decoration: none;
@@ -67,7 +75,7 @@ ul li a span {
 	display: block;
 	height: 100%;
 	transition: transform 0.5s ease;
-	width: 200%;
+	width: 100%;
 }
 
 ul li a span:nth-child(1) {
@@ -75,7 +83,7 @@ ul li a span:nth-child(1) {
 }
 
 ul li:hover a span:nth-child(1) {
-	transform: translateY(-100%);
+	transform: translateY(-120%);
 }
 
 ul li a span:nth-child(2) {
